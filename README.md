@@ -6,7 +6,6 @@ It produces two documents: entries.txt and masterpassword.txt. The latter stores
 
 ## Dependencies
 OpenSSL
-
-
+##
 
 Add this application to path for easy access
