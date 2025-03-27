@@ -9,3 +9,6 @@ Git, MSBuild with C++ workload, OpenSSL
 
 ## Powershell install script
 [install-password-manager-ps1](install-password-manager.ps1)
+
+## How to run
+This script will add the program to your path, so just simply open your command prompt and type 'passwordManger.exe'
